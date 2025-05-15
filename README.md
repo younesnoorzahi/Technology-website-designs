@@ -1,6 +1,6 @@
 <h2>Technology website designs</h2>
 <p>I'll create a technology website using pure HTML, CSS, and JavaScript as requested. Here are the complete files:</p>
-<p>View Demo : <a href="">Technology website</a></p>
+<p>View Demo : <a href="https://younesnoorzahi.github.io/Technology-website-designs/">Technology website</a></p>
 
 ```
 Technology-web/
